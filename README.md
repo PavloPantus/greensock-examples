@@ -1,3 +1,3 @@
-# webpack-template
+# greensock-examples
 
-simple template for webpack
+
